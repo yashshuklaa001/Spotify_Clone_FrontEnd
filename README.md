@@ -24,7 +24,7 @@ This project mimics the core design of Spotify’s desktop web app, including th
 
 ## 📷 Preview
 
-deployed on : [Spotify-Clone](https://yashshuklaa001.github.io/Spotify_Clone_Web-Player-Frontend-/)
+deployed on : [Spotify-Clone](https://yashshuklaa001.github.io/Spotify_Clone_FrontEnd/)
 
 
 ---
