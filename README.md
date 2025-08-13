@@ -44,12 +44,6 @@ cd Spotify_Clone_Web-Player-Frontend-
 
 - Simply open the index.html file in your browser.
 
-### 📌 Folder Structure
-Spotify_Clone_Web-Player-Frontend-
-│── assets/          # Images & icons
-│── index.html       # Main HTML file
-│── style.css        # Stylesheet
-│── README.md        # Project documentation
 
 ## 📬 Contact
 
